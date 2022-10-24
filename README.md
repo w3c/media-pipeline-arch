@@ -12,3 +12,8 @@ This is started as a joint effort between the
 [Media Working Group](https://www.w3.org/media-wg/) and the
 [WebRTC Working Group](https://www.w3.org/groups/wg/webrtc), following
 [discussions during TPAC 2022](https://www.w3.org/2022/09/15-mediawg-minutes.html).
+
+Samples
+
+[WebCodecs in Worker](https://webrtc.internaut.com/wc/wcWorker2/)
+[WebTransport + WebCodecs Echo](https://webrtc.internaut.com/wc/wtSender2/)
