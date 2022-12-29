@@ -15,6 +15,8 @@ This is started as a joint effort between the
 
 Samples
 
-[WebCodecs in Worker](https://webrtc.internaut.com/wc/wcWorker2/)
+[WebCodecs in Worker](https://github.com/aboba/wc-demo)
 
-[WebTransport + WebCodecs Echo](https://webrtc.internaut.com/wc/wtSender2/)
+[WebTransport + WebCodecs Echo](https://github.com/aboba/wt-demo)
+
+[Video Processing Pipeline Experiments](https://github.com/tidoust/media-tests#experimenting-with-video-processing-pipelines-on-the-web)
