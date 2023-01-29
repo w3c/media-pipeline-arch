@@ -16,37 +16,24 @@ This is started as a joint effort between the
 ## Samples
 
 [WebCodecs in Worker](https://github.com/aboba/wc-demo)
-
 [WebTransport + WebCodecs Echo](https://github.com/aboba/wt-demo)
-
 [Video Processing Pipeline Experiments](https://github.com/tidoust/media-tests#experimenting-with-video-processing-pipelines-on-the-web)
 
-Tutorials (Youtube Videos + Slides)
+## Tutorials (Youtube Videos + Slides)
 
 [WebCodecs](https://www.rtc-conference.com/2021/presentation/?hid=880)
-
 [WebCodecs + WebTransport](https://www.rtc-conference.com/2022/presentation/?hid=299)
 
 ## Specifications
 
 [WebCodecs](https://w3c.github.io/webcodecs/)
-
-[WebTransport](https://w3c.github.io/webtransport/)
-
 [Mediacapture-transform](https://w3c.github.io/mediacapture-transform/)
-
-[RTCDataChannel in Workers](https://w3c.github.io/webrtc-extensions/#rtcdatachannel-extensions)
-
-[MSEv2 in Workers](https://w3c.github.io/mediacapture-extensions/)
-
-[WHATWG Streams](https://streams.spec.whatwg.org/)
-
-[AV1 Bitstream](https://aomedia.org/av1/specification/)
-
-[AV1 RTP Payload](https://aomediacodec.github.io/av1-rtp-spec/)
-
-[Media Capabilities](https://w3c.github.io/media-capabilities/)
-
-[WebRTC-SVC](https://w3c.github.io/webrtc-svc/)
-
 [RVFC](https://wicg.github.io/video-rvfc/)
+[Media Capabilities](https://w3c.github.io/media-capabilities/)
+[WebRTC-SVC](https://w3c.github.io/webrtc-svc/)
+[WebTransport](https://w3c.github.io/webtransport/)
+[RTCDataChannel in Workers](https://w3c.github.io/webrtc-extensions/#rtcdatachannel-extensions)
+[MSEv2 in Workers](https://w3c.github.io/mediacapture-extensions/)
+[WHATWG Streams](https://streams.spec.whatwg.org/)
+[AV1 Bitstream](https://aomedia.org/av1/specification/)
+[AV1 RTP Payload](https://aomediacodec.github.io/av1-rtp-spec/)
