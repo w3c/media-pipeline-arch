@@ -13,7 +13,7 @@ This is started as a joint effort between the
 [WebRTC Working Group](https://www.w3.org/groups/wg/webrtc), following
 [discussions during TPAC 2022](https://www.w3.org/2022/09/15-mediawg-minutes.html).
 
-Samples
+## Samples
 
 [WebCodecs in Worker](https://github.com/aboba/wc-demo)
 
@@ -27,7 +27,7 @@ Tutorials (Youtube Videos + Slides)
 
 [WebCodecs + WebTransport](https://www.rtc-conference.com/2022/presentation/?hid=299)
 
-Specifications
+## Specifications
 
 [WebCodecs](https://w3c.github.io/webcodecs/)
 
@@ -45,7 +45,7 @@ Specifications
 
 [AV1 RTP Payload](https://aomediacodec.github.io/av1-rtp-spec/)
 
-[Media Capabilities])(https://w3c.github.io/media-capabilities/)
+[Media Capabilities](https://w3c.github.io/media-capabilities/)
 
 [WebRTC-SVC](https://w3c.github.io/webrtc-svc/)
 
