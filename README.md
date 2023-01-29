@@ -20,3 +20,9 @@ Samples
 [WebTransport + WebCodecs Echo](https://github.com/aboba/wt-demo)
 
 [Video Processing Pipeline Experiments](https://github.com/tidoust/media-tests#experimenting-with-video-processing-pipelines-on-the-web)
+
+Tutorials (Youtube Videos + Slides)
+
+[WebCodecs](https://www.rtc-conference.com/2021/presentation/?hid=880)
+
+[WebCodecs + WebTransport](https://www.rtc-conference.com/2022/presentation/?hid=299)
